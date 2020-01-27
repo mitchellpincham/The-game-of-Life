@@ -1,0 +1,14 @@
+grid width (def: 60)
+60
+
+grid height (def: 30)
+30
+
+box size (def: 15)
+15
+
+box margin (def: 2)
+2
+
+fps (def: 30)
+30
